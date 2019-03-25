@@ -1,2 +1,0 @@
-# niet-apti
-Aptitude Test
